@@ -1,0 +1,5 @@
+Status = waiting queue ... 2015/8/25 16:48:00
+Status = preparing ... 2015/8/25 16:48:01
+Status = dimer calculating ... 2015/8/25 16:48:02
+Status = result generating ... 2015/8/25 16:48:48
+Status = complete 2015/8/25 16:49:03

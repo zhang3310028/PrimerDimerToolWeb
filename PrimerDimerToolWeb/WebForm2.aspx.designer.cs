@@ -13,13 +13,13 @@ namespace PrimerDimerToolWeb {
     public partial class WebForm2 {
         
         /// <summary>
-        /// G 控件。
+        /// guid 控件。
         /// </summary>
         /// <remarks>
         /// 自动生成的字段。
         /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Literal G;
+        protected global::System.Web.UI.WebControls.Literal guid;
         
         /// <summary>
         /// form1 控件。
